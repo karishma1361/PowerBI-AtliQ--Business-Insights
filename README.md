@@ -1,7 +1,7 @@
-# PowerBI-AtliQ--Business-Insights-Link :https://rb.gy/npnliu
+# PowerBI-AtliQ-Business-Insights-Link :https://rb.gy/npnliu
 **Project Name**:- Business Insight 360 (BI 360).
 
-🎯𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :- AtliQ Hardware is a hardware manufacturing company that manufactures and sells various types and categories of hardware products to multiple customers in different countries and regions. Suddenly, Company faced a lot of issues because it was using the old Excel files for data insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
+𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :- AtliQ Hardware is a hardware manufacturing company that manufactures and sells various types and categories of hardware products to multiple customers in different countries and regions. Suddenly, Company faced a lot of issues because it was using the old Excel files for data insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
 
  **Project Objective:**
 The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's market performance for all the departments in the company.
@@ -13,6 +13,7 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 **Objectives:**
 1.Improve financial planning and budgeting processes.
 2. Enhance cost control and expense management.
+
 **Key Achievements:**
 1.	Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2.	Created benchmarking against last year and target goals for budgeting.
@@ -22,6 +23,7 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 **Objectives:**
 1.	Increase sales revenue and market share.
 2.	Enhance customer relationship management.
+
 **Key Achievements:**
 1.	Created customer and product overall sales performance report and unit economics.
 2.	Identified sales trends and track KPIs
@@ -31,6 +33,7 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 **Objectives:**
 1.	Optimize inventory management and reduce lead times.
 2.	Enhance supplier relationships for cost savings.
+
 **Key Achievements:**
 1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
@@ -39,6 +42,7 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 **Objectives:**
 1.	Provide an overview of the entire organization's performance.
 2.	Enable data-driven decision-making for top management.
+
 **Key Achievements:**
 1.	Developed an executive dashboard for real-time performance monitoring.
 2.	Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
@@ -48,6 +52,7 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 **Objectives:**
 1.	Increase brand visibility and customer engagement.
 2.	Implement data-driven marketing strategies.
+
 **Key Achievements:**
 1.	Created region and product wise overall market performance report and unit economics.
 2.	Identified market trends and track KPIs
