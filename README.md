@@ -8,7 +8,8 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 
 Live Dashboard Link: https://rb.gy/npnliu
 
-Finance View :
+Finance View:-
+
 Objectives:
 1.Improve financial planning and budgeting processes.
 2. Enhance cost control and expense management.
@@ -16,38 +17,43 @@ Key Achievements:
 1.	Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2.	Created benchmarking against last year and target goals for budgeting.
    
-Sales View :
-Objectives
+Sales View :-
+
+Objectives:
 1.	Increase sales revenue and market share.
 2.	Enhance customer relationship management.
-Key Achievements
+Key Achievements:
 1.	Created customer and product overall sales performance report and unit economics.
 2.	Identified sales trends and track KPIs
 
-Supply Chain View:
-Objectives
+Supply Chain View:-
+
+Objectives:
 1.	Optimize inventory management and reduce lead times.
 2.	Enhance supplier relationships for cost savings.
-Key Achievements
+Key Achievements:
 1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
-Executive View:
-Objectives
+Executive View:-
+
+Objectives:
 1.	Provide an overview of the entire organization's performance.
 2.	Enable data-driven decision-making for top management.
-Key Achievements
+Key Achievements:
 1.	Developed an executive dashboard for real-time performance monitoring.
 2.	Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
 
-Marketing View:
-Objectives
+Marketing View:-
+
+Objectives:
 1.	Increase brand visibility and customer engagement.
 2.	Implement data-driven marketing strategies.
-Key Achievements
+Key Achievements:
 1.	Created region and product wise overall market performance report and unit economics.
 2.	Identified market trends and track KPIs
 
-Skills:
+**Skills**:
+
 Learnt Power BI fundamentals:-
 1.Calculated Columns: Creating custom data columns.
 2. DAX Measures: Formulating advanced calculations.
@@ -60,13 +66,13 @@ Learnt Power BI fundamentals:-
 9.  Power Bi Services: Online platform for report sharing.
 10.  Publishing Reports: Sharing reports on Power Bi Services.
 
-Tech Stacks:
+**Tech Stacks:**
 1.	SQL
 2.	Power BI Desktop
 3.	DAX language
 4.	Project Charter file
 
-Business Related Terms:
+**Business Related Terms:**
 1. Gross Price: Total sale price.
 2. Pre-invoice Deductions: Deductions before invoicing.
 3. Post-Invoice Deductions: Deductions after invoicing.
@@ -81,11 +87,11 @@ Business Related Terms:
 13. Freight cost
 14. Direct, retailer, consumer and distributors
 
-Soft Skills:
+**Soft Skills:**
 1.	Stakeholders mapping analysis
 2.	Effective communication with stakeholders feedback and management
 3.	Business and domain knowledge in Sales, Finance, Marketing and supply chain.
 
-Conclusion:
+**Conclusion:**
 This dashboard answers many business questions based on different scenario.
 This report can be used to take data driven decision to make AtliQ more profitable.
