@@ -1,5 +1,4 @@
 # PowerBI-AtliQ--Business-Insights
-# PowerBI-AtliQ--Business-Insights
 Project Name:- Business Insight 360 (BI 360).
 
 🎯𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :- AtliQ Hardware is a hardware manufacturing company that manufactures and sells various types and categories of hardware products to multiple customers in different countries and regions. Suddenly, Company faced a lot of issues because it was using the old Excel files for data insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
