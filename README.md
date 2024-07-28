@@ -35,7 +35,8 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 2.	Enhance supplier relationships for cost savings.
 
 **Key Achievements:**
-1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
+1.Identified forecast accuracy % , net error % ,absolute error % trends
+2. Key Metrices by customers and products demanding supply management.
 
 **Executive View:-**
 
@@ -60,6 +61,7 @@ The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's m
 **Skills**:
 
 **Learnt Power BI fundamentals:-**
+
 1.Calculated Columns: Creating custom data columns.
 2. DAX Measures: Formulating advanced calculations.
 3. Data Modeling: Structuring and organizing data relationships.
