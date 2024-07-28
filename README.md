@@ -1,60 +1,60 @@
-# PowerBI-AtliQ--Business-Insights
-Project Name:- Business Insight 360 (BI 360).
+# PowerBI-AtliQ--Business-Insights-Link :https://rb.gy/npnliu
+**Project Name**:- Business Insight 360 (BI 360).
 
 🎯𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :- AtliQ Hardware is a hardware manufacturing company that manufactures and sells various types and categories of hardware products to multiple customers in different countries and regions. Suddenly, Company faced a lot of issues because it was using the old Excel files for data insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
 
-Project Objective:
+ **Project Objective:**
 The objective is to craft a comprehensive dashboard analyzing AtliQ hardware's market performance for all the departments in the company.
 
-Live Dashboard Link: https://rb.gy/npnliu
+**Live Dashboard Link:** https://rb.gy/npnliu
 
-Finance View:-
+**Finance View:-**
 
-Objectives:
+**Objectives:**
 1.Improve financial planning and budgeting processes.
 2. Enhance cost control and expense management.
-Key Achievements:
+**Key Achievements:**
 1.	Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2.	Created benchmarking against last year and target goals for budgeting.
    
-Sales View :-
+**Sales View :-**
 
-Objectives:
+**Objectives:**
 1.	Increase sales revenue and market share.
 2.	Enhance customer relationship management.
-Key Achievements:
+**Key Achievements:**
 1.	Created customer and product overall sales performance report and unit economics.
 2.	Identified sales trends and track KPIs
 
-Supply Chain View:-
+**Supply Chain View:-**
 
-Objectives:
+**Objectives:**
 1.	Optimize inventory management and reduce lead times.
 2.	Enhance supplier relationships for cost savings.
-Key Achievements:
+**Key Achievements:**
 1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
-Executive View:-
+**Executive View:-**
 
-Objectives:
+**Objectives:**
 1.	Provide an overview of the entire organization's performance.
 2.	Enable data-driven decision-making for top management.
-Key Achievements:
+**Key Achievements:**
 1.	Developed an executive dashboard for real-time performance monitoring.
 2.	Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
 
-Marketing View:-
+**Marketing View:-**
 
-Objectives:
+**Objectives:**
 1.	Increase brand visibility and customer engagement.
 2.	Implement data-driven marketing strategies.
-Key Achievements:
+**Key Achievements:**
 1.	Created region and product wise overall market performance report and unit economics.
 2.	Identified market trends and track KPIs
 
 **Skills**:
 
-Learnt Power BI fundamentals:-
+**Learnt Power BI fundamentals:-**
 1.Calculated Columns: Creating custom data columns.
 2. DAX Measures: Formulating advanced calculations.
 3. Data Modeling: Structuring and organizing data relationships.
@@ -67,10 +67,9 @@ Learnt Power BI fundamentals:-
 10.  Publishing Reports: Sharing reports on Power Bi Services.
 
 **Tech Stacks:**
-1.	SQL
-2.	Power BI Desktop
-3.	DAX language
-4.	Project Charter file
+**1.	SQL
+2.	Power BI Desktop & server
+3.	DAX language**
 
 **Business Related Terms:**
 1. Gross Price: Total sale price.
